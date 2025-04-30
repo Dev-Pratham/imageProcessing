@@ -34,5 +34,5 @@ pip install opencv-python numpy
 
 🛠️ Usage
 Clone this repository:
-git clone https://github.com/your-username/image-processing-opencv.git
-cd image-processing-opencv
+git clone https://github.com/Dev-Pratham/imageProcessing.git
+cd imageProcessing
